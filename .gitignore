@@ -133,4 +133,5 @@ dmypy.json
 .pyre/
 
 # Project specific
-assets/
+dumps/
+result.jpg
